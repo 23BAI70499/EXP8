@@ -13,6 +13,6 @@
 ### delete student by id
 <img width="668" height="756" alt="image" src="https://github.com/user-attachments/assets/9f447d23-c7d3-4e13-ba3e-20fe3da4ee1c" />
 
-
-
+### put empty response like
+<img width="983" height="1113" alt="Screenshot 2026-03-24 104904" src="https://github.com/user-attachments/assets/69b65e04-4738-4929-8a11-262a27a3095d" />
 
